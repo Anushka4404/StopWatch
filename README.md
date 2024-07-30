@@ -1,2 +1,2 @@
-# PRODIGY_WD_02
+# StopWatch
 Stop-watch web application using html, css and js
